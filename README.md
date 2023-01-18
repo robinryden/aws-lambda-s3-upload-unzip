@@ -1,6 +1,6 @@
 # aws-lambda-s3-upload-unzip
 
-Lambdas written a long time ago, automation for fetching a lot of zipped files, uploading to S3 bucket aws.
+Lambdas written a long time ago, automation for fetching a lot of zipped files from sftp server, uploading to S3 bucket in aws. Unzipping etc.
 
 sftp_s3_uploader: SFTP server -> upload all zipped files to S3 bucket.
 
